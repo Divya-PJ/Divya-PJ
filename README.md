@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Divya-PJ
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Data science 
+- 🌱 I’m currently learning machine learning 
 
 <!---
 Divya-PJ/Divya-PJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
