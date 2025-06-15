@@ -32,6 +32,11 @@
   }
 }
 ```
+<h2 align="left">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px" />
+  Skills & Technologies
+</h2>
+
 <div align="center">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=python,sql,html,css,js" title="Python, SQL, HTML, CSS, JavaScript" />
@@ -49,6 +54,7 @@
   <!-- Others -->
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker" title="Git, GitHub, Linux, Docker" />
 </div>
+
 
 
 
