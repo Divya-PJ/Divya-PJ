@@ -32,37 +32,23 @@
   }
 }
 ```
-<h2>Skills & Technologies</h2>
+<div align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,sql,html,css,js" title="Python, SQL, HTML, CSS, JavaScript" />
 
-<!-- Languages -->
-<strong>Languages:</strong>
-<img src="https://skillicons.dev/icons?i=python,sql,html,css,js" alt="Python, SQL, HTML, CSS, JS" style="height:24px; margin-right:8px;" />
-Python, SQL, HTML, CSS, JavaScript
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=spark" title="Apache Spark" />
+  <img src="https://skillicons.dev/icons?i=python" style="opacity:0.5" title="Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn (Python libs)" />
 
-<br/><br/>
+  <!-- Databases & BI Tools -->
+  <img src="https://skillicons.dev/icons?i=mysql,powerbi" title="MySQL, Power BI" />
 
-<!-- Frameworks -->
-<strong>Frameworks & Libraries:</strong>
-<img src="https://skillicons.dev/icons?i=spark" alt="Apache Spark" style="height:24px; margin-right:8px;" />
-Apache Spark, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+  <!-- Platforms & IDEs -->
+  <img src="https://skillicons.dev/icons?i=pycharm,vscode,databricks,sqlserver" title="PyCharm, VS Code, Databricks, SQL Server" />
 
-<br/><br/>
+  <!-- Others -->
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker" title="Git, GitHub, Linux, Docker" />
+</div>
 
-<!-- Tools -->
-<strong>Tools:</strong>
-<img src="https://skillicons.dev/icons?i=mysql,powerbi" alt="MySQL, Power BI" style="height:24px; margin-right:8px;" />
-MySQL, Power BI, MS PowerPoint, MS Excel
-
-<br/><br/>
-
-<!-- Platforms -->
-<strong>Platforms & Editors:</strong>
-<img src="https://skillicons.dev/icons?i=pycharm,vscode" alt="PyCharm, VS Code" style="height:24px; margin-right:8px;" />
-PyCharm, Visual Studio Code, Google Colab, Databricks, SQL Server Management Studio
-
-<br/><br/>
-
-<!-- Soft Skills -->
-<strong>Soft Skills:</strong> Quick to adapt, Ambitious, Timely, Committed, Diligent, Cooperative, Proactive & Eager to learn
 
 
